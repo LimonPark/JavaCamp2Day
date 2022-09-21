@@ -20,8 +20,6 @@ public class Customer {
         this.customerNumber = customerNumber;
     }
 
-
-
     public String getPhone() {
         return phone;
     }
